@@ -30,3 +30,7 @@ The feature set is represented using hardware, software, and configuration detai
 - Encoded categorical variables and handled missing data  
 - Trained classification models including Random Forest, XGBoost, and LightGBM  
 - Evaluated models using AUC, accuracy, and F1-score  
+
+## Results
+
+- I achieved a public score of 0.64 and a private score of 0.67 placing me in the top 10 performers in the competition
